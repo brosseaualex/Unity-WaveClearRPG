@@ -19,4 +19,4 @@
 
 ## NOTES
 
-SOME FEATURES WERE NOT DEVELOP BY ME. I AM ONLY RESPONSIBLE FOR THE AI / BEHAVIOUR TREE AND THE INVENTORY SYSTEM.
+This was a group project. Not all features were developped by myself.
